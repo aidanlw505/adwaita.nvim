@@ -90,6 +90,10 @@ M.gen_colors = function()
         accent_color_pink_light = '#ffa0d8',
         accent_color_purple_light = '#fba7ff',
         accent_color_slate_light = '#bbd1e5',
+        
+
+        accent_color_dark = '#0461be',
+        accent_color_light = '#81d0ff',
     }
 
     local adw_light_colors = {
